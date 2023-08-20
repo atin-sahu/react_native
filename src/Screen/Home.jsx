@@ -1,7 +1,7 @@
 import React from 'react'
 import {Text, View} from 'react-native'
 
-
+// start development code
 const Home = () => {
   
 
